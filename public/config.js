@@ -13,10 +13,10 @@ window.SPIEL_CONFIG = {
   // Spielfiguren (Name + Bild). Es dürfen auch mehr oder weniger sein.
   // "farbe" wird für Rahmen und Markierungen benutzt.
   figuren: [
-    { name: 'Hopsi',   bild: 'bilder/figuren/figur1.svg', farbe: '#7c5cd6' },
-    { name: 'Flitzi',  bild: 'bilder/figuren/figur2.svg', farbe: '#e0567a' },
-    { name: 'Wuschel', bild: 'bilder/figuren/figur3.svg', farbe: '#2fa36b' },
-    { name: 'Sprinti', bild: 'bilder/figuren/figur4.svg', farbe: '#e8a317' },
+    { name: 'Bluey',  bild: 'bilder/figuren/bluey.jpg',  farbe: '#3d7be0' },
+    { name: 'Bingo',  bild: 'bilder/figuren/bingo.jpg',  farbe: '#e8873a' },
+    { name: 'Bandit', bild: 'bilder/figuren/bandit.jpg', farbe: '#2f4f8f' },
+    { name: 'Chilli', bild: 'bilder/figuren/chilli.jpg', farbe: '#d9a066' },
   ],
 
   bilder: {
